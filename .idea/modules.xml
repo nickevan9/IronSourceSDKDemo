@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IronSourceSDKDemo.iml" filepath="$PROJECT_DIR$/IronSourceSDKDemo.iml" group="IronSourceSDKDemo" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="IronSourceSDKDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/mintegral_common-9.12.5/mintegral_common-9.12.5.iml" filepath="$PROJECT_DIR$/mintegral_common-9.12.5/mintegral_common-9.12.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mintegral_interstitialvideo-9.12.5/mintegral_interstitialvideo-9.12.5.iml" filepath="$PROJECT_DIR$/mintegral_interstitialvideo-9.12.5/mintegral_interstitialvideo-9.12.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mintegral_mtgdownloads-9.12.5/mintegral_mtgdownloads-9.12.5.iml" filepath="$PROJECT_DIR$/mintegral_mtgdownloads-9.12.5/mintegral_mtgdownloads-9.12.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mintegral_mtgjscommon-9.12.5/mintegral_mtgjscommon-9.12.5.iml" filepath="$PROJECT_DIR$/mintegral_mtgjscommon-9.12.5/mintegral_mtgjscommon-9.12.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mintegral_playercommon-9.12.5/mintegral_playercommon-9.12.5.iml" filepath="$PROJECT_DIR$/mintegral_playercommon-9.12.5/mintegral_playercommon-9.12.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mintegral_reward-9.12.5/mintegral_reward-9.12.5.iml" filepath="$PROJECT_DIR$/mintegral_reward-9.12.5/mintegral_reward-9.12.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mintegral_videocommon-9.12.5/mintegral_videocommon-9.12.5.iml" filepath="$PROJECT_DIR$/mintegral_videocommon-9.12.5/mintegral_videocommon-9.12.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mintegral_videojs-9.12.5/mintegral_videojs-9.12.5.iml" filepath="$PROJECT_DIR$/mintegral_videojs-9.12.5/mintegral_videojs-9.12.5.iml" />
+    </modules>
+  </component>
+</project>
